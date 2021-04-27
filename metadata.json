@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2021-04-27T05:30:44.778Z","userMetadata":{},"modelName":"animal3 image model","labels":["大象","馬","狗"]}
+{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2021-04-27T05:50:26.280Z","userMetadata":{},"modelName":"animal3 image model","labels":["大象","馬","狗","貓","Class 5"]}
